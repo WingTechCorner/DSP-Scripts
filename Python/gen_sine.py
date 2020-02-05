@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+#
+# gen_sine.py - python script to generate floating point data for a sine wave
+# Author: Wing Tang Wong
+#
 # Simple python script to generat a sine wave of a specific hz and a specific duration
 
 import os,sys,math,argparse,csv
